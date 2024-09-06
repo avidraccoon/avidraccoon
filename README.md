@@ -2,9 +2,18 @@
 
 <!--
 **avidraccoon/avidraccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+### I'm currently working on Machine Learning, Creating Assemly Languages, Creating Compiliers, Ray Tracing, Web Servers, and more.
+### I'm currently learning Assembly, Machine Learning, UI/UX Design
+### I can program in a lot of programing languages comfortably
+Python, Java, Javascript, C, C++, C#, Basic, Assembly, Html, CSS, Kotlin, and Rust
+### If you want to collaborate just contact me
+### To reach out to me contact me at
+Email: gonathansmith@gmail.com
 
-Here are some ideas to get you started:
+I may take a few days to respond.
 
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
