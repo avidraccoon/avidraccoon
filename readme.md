@@ -3,7 +3,7 @@
 <!--
 **avidraccoon/avidraccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-A student who likes to program.
+Im a student who likes to program.
 
 
 <!--
