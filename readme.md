@@ -3,10 +3,7 @@
 <!--
 **avidraccoon/avidraccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### I'm currently working on Machine Learning, Creating Assemly Languages, Creating Compiliers, Ray Tracing, Web Servers, and more.
-### I'm currently learning Assembly, Machine Learning, UI/UX Design
-### I can program in a lot of programing languages comfortably
-Python, Java, Javascript, C, C++, C#, Basic, Assembly, Html, CSS, Kotlin, and Rust
+A student who likes to program.
 
 
 <!--
